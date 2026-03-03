@@ -25,3 +25,5 @@
 ## 🔗 立即访问：www.chau8.com
 波场 (TRON) 查询，就该这么快。
 专业级 TRX / USDT / USDT转账记录查询 | 多签钱包 | 能量TRX | TronLink
+
+想要省钱？查看实时能量比价：[点击进入能量雷达仓库] https://github.com/yoope352-svg/Tron-Energy-Rental-Radar-Save-TRX
